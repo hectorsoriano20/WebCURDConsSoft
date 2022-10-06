@@ -1,0 +1,12 @@
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\bin\Debug\BO.dll.config
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\bin\Debug\BO.dll
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\bin\Debug\BO.pdb
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\bin\Debug\EntityFramework.dll
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\bin\Debug\EntityFramework.xml
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\obj\Debug\BO.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\obj\Debug\BO.csproj.CopyComplete
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\obj\Debug\BO.dll
+C:\Users\MSI\source\repos\CRUD1094750-WEB\BO\obj\Debug\BO.pdb
